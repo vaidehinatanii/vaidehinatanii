@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaidehi Natani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Skilled frontend developer with expertise in Java and a strong background in data structures and algorithms</h3>
 
 - 🌱 I’m currently learning **mern stack and data structures and algorithms in Java**
 
